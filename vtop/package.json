@@ -1,0 +1,58 @@
+{
+  "name": "vtop",
+  "version": "0.5.5",
+  "description": "Wow such top. So stats",
+  "homepage": "http://parall.ax/vtop",
+  "main": "app.js",
+  "preferGlobal": true,
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bin": {
+    "vtop": "./bin/vtop.js"
+  },
+  "author": {
+    "name": "James Hall",
+    "email": "james@parall.ax"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MrRio/vtop.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "drawille": "0.1.1",
+    "os-utils": "0.0.14",
+    "read": "1.0.5",
+    "blessed": "0.0.37",
+    "commander": "2.2.0",
+    "sudo": "1.0.3",
+    "glob": "4.0.4"
+  },
+  "gitHead": "5ef5c17a694641538a8335ddf7d5c82a30cf16fe",
+  "bugs": {
+    "url": "https://github.com/MrRio/vtop/issues"
+  },
+  "_id": "vtop@0.5.5",
+  "scripts": {},
+  "_shasum": "286bd962e0ffa454a852989d751fd70d73e26e73",
+  "_from": "vtop@*",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "mrjameshall",
+    "email": "james@parall.ax"
+  },
+  "maintainers": [
+    {
+      "name": "mrjameshall",
+      "email": "james@parall.ax"
+    }
+  ],
+  "dist": {
+    "shasum": "286bd962e0ffa454a852989d751fd70d73e26e73",
+    "tarball": "https://registry.npmjs.org/vtop/-/vtop-0.5.5.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/vtop/-/vtop-0.5.5.tgz",
+  "readme": "ERROR: No README data found!"
+}
